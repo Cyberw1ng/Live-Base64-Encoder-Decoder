@@ -1,0 +1,6 @@
+# requirements.txt
+python==3.8  # or your specific version
+
+# Note: Tkinter is part of the standard library in Python. 
+# On some Linux systems, you may need to install it manually using:
+# sudo apt-get install python3-tk
