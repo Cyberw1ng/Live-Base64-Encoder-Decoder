@@ -2,11 +2,11 @@
 
 ## Description
 
-The Live Base64 Encoder/Decoder is a simple GUI application built using Python and Tkinter. This application allows users to encode and decode text using Base64 encoding in real-time. The application also features a "Privacy Encode" function to quickly encode input text.
+The Live Base64 Encoder/Decoder is a simple GUI application built using Python and Tkinter. This application allows users to encode and decode text using Base64 encoding in real time. The application also features a "Privacy Encode" function to encode input text quickly.
 
 ## Features
 
-- **Live Encoding and Decoding**: The application updates the output text in real-time as the user types in the input text box.
+- **Live Encoding and Decoding**: The application updates the output text in real time as the user types in the input text box.
 - **Mode Selection**: Users can switch between encoding and decoding modes using radio buttons.
 - **Privacy Encode**: A button to encode the current input text and replace it in the input text box.
 
@@ -22,8 +22,8 @@ The Live Base64 Encoder/Decoder is a simple GUI application built using Python a
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/
-   cd base64-gui
+   git clone https://github.com/Cyberw1ng/Live-Base64-Encoder-Decoder.git
+   cd Live-Base64-Encoder-Decoder
    ```
 
 2. **Install dependencies**:
@@ -35,7 +35,7 @@ The Live Base64 Encoder/Decoder is a simple GUI application built using Python a
 
 1. **Run the Application**:
    ```
-   python base64_gui.py
+   python3 ende.py
    ```
 
 2. **Using the Application**:
