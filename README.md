@@ -10,6 +10,7 @@ The Live Base64 Encoder/Decoder is a simple GUI application built using Python a
 - **Mode Selection**: Users can switch between encoding and decoding modes using radio buttons.
 - **Privacy Encode**: A button to encode the current input text and replace it in the input text box.
 
+![Live Enocde/Decoder](https://github.com/Cyberw1ng/Live-Base64-Encoder-Decoder/blob/main/Live%20Encode-Decoder.png)  
 
 ## Setup Instructions
 
